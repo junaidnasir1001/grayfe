@@ -148,7 +148,7 @@
                 </div>
                 <div class="row custom_column">
                     <div class="col-lg-3 col-sm-4 col-md-3">
-                        <a href="service_detail.html" class="icon_box_1 text-center">
+                        <a href="#" class="icon_box_1 text-center">
                             <div class="flipper">
                                 <div class="front">
                                     <i class="mei-web-design"></i>
@@ -162,7 +162,7 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-sm-4 col-md-3">
-                        <a href="service_detail.html" class="icon_box_1 text-center">
+                        <a href="#" class="icon_box_1 text-center">
                             <div class="flipper">
                                 <div class="front">
                                     <i class="mei-computer-graphic"></i>
@@ -176,7 +176,7 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-sm-4 col-md-3">
-                        <a href="service_detail.html" class="icon_box_1 text-center">
+                        <a href="#" class="icon_box_1 text-center">
                             <div class="flipper">
                                 <div class="front">
                                     <i class="mei-development-1"></i>
@@ -190,7 +190,7 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-sm-4 col-md-3">
-                        <a href="service_detail.html" class="icon_box_1 text-center">
+                        <a href="#" class="icon_box_1 text-center">
                             <div class="flipper">
                                 <div class="front">
                                     <i class="mei-development"></i>
@@ -204,7 +204,7 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-sm-4 col-md-3">
-                        <a href="service_detail.html" class="icon_box_1 text-center">
+                        <a href="#" class="icon_box_1 text-center">
                             <div class="flipper">
                                 <div class="front">
                                     <i class="mei-app-development"></i>

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Meipaly - Fine One Page Parallax HTML5 Responsive Template</title>
+    <title>Grayfe.com - Fine One Page Parallax HTML5 Responsive Template</title>
     <meta name="viewport" content="width=device-width">
 
     <!-- Include All CSS here-->

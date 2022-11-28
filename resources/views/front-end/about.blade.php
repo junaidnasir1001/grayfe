@@ -22,7 +22,7 @@
                 <div class="row">
                     <div class="col-lg-6 col-sm-6 col-md-6">
                         <h4 class="sub_title">get to know us</h4>
-                        <h2 class="sec_title">build better website alot quicker with meipaly agency</h2>
+                        <h2 class="sec_title">build better website alot quicker with Grayfe agency</h2>
                     </div>
                     <div class="col-lg-6 col-sm-6 col-md-6">
                         <div class="agency_img1">
@@ -35,7 +35,7 @@
                         </div>
                         <div class="compay_date">
                             <h5>company started</h5>
-                            <h2>1990</h2>
+                            <h2>2018</h2>
                         </div>
                     </div>
                 </div>
@@ -414,11 +414,11 @@
                     <div class="col-lg-6 col-sm-6">
                         <div class="ab_detail_wrap">
                             <h4 class="sub_title">the only design you need</h4>
-                            <h2 class="sec_title">Make amazing websites without touching cod</h2>
+                            <h2 class="sec_title">What We do?</h2>
                             <p class="sec_desc">
-                                Tincidunt elit magnis nulla facilisis sagittis maecenas. Sapien nunc amet ultrices,
-                                dolores sit ipsum velit purus aliquet, massa fringilla leo orci. Lorem ipsum
-                                dolors sit amet elit magnis amet ultrices purus aliquet.
+                                Our mission is to “Build Great Brands” for our partner; brands that generate loyal customers, command premium prices and flex with market fluctuation to increase corporate value.
+                                We specialize in Web Design & Development, Digital Marketing, E-Commerce website Development, Content Creation, and Graphic Design.
+                                We build Web Solutions, which develop gradually with the changing needs of your business.
                             </p>
                         </div>
                     </div>

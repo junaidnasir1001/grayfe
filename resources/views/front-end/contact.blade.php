@@ -24,7 +24,7 @@
                         <h4 class="sub_title">Contact with us</h4>
                         <h2 class="sec_title">write us a message</h2>
                         <p class="sec_desc">
-                            We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
+
                         </p>
                     </div>
                 </div>

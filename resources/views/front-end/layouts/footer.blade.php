@@ -6,8 +6,7 @@
                 <aside class="widget aboutwidget">
                     <a href="#"><img src="#" alt=""></a>
                     <p>
-                        Welcome to our web design agency. Lorem ipsum is simply free text dolor sit amet consectetur adipisicing elit.
-                        Tempore corrupti temporibus fuga earum asperiores, alias excepturi sit mpedit fugit laudantium.
+                        Welcome to GRAYFE. It is a hub of passionate professionals who are dynamic in their mission and operate on call to action.
                     </p>
                 </aside>
             </div>
@@ -36,7 +35,7 @@
         <div class="row">
             <div class="col-lg-12 col-sm-12 text-center">
                 <div class="copyright">
-                    © copyright 2022 by <a href="#">Grayfe.com</a>
+                    © Copyright 2022 <a href="#">Grayfe.com</a> All rights reserved
                 </div>
             </div>
         </div>

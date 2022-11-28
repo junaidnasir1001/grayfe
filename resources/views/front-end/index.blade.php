@@ -27,7 +27,7 @@
                                  data-letterspacing="2"
                                  data-color="#FFF"
                                  data-textAlign="center"
-                                 >WELCOME TO MEIPALY AGENCY</div>
+                                 >WELCOME TO GRAYFE AGENCY</div>
                             <div class="tp-caption tp-resizeme normalWraping layer_2"
 
                                  data-frames='[{"delay":1600,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},
@@ -88,7 +88,7 @@
                                  data-letterspacing="2"
                                  data-color="#FFF"
                                  data-textAlign="center"
-                                 >WELCOME TO MEIPALY AGENCY</div>
+                                 >WELCOME TO GRAYFE AGENCY</div>
                             <div class="tp-caption tp-resizeme normalWraping layer_2"
 
                                  data-frames='[{"delay":1600,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},
@@ -142,7 +142,7 @@
                         <h4 class="sub_title red_color">Services we are offering</h4>
                         <h2 class="sec_title white">We design digital products that<br> help grow businesses.</h2>
                         <p class="sec_desc color_aaa">
-                            We are committed to providing our customers with exceptional service<br> while offering our employees the best training.
+                            We have a refined process after we have taken up a project. We offer the platform from where the projects take shape through stages of planning, testing and execution. In this aspect we follow an agile methodology and run the project through a loop of feedback and constant improvement. Our specialized services also have:
                         </p>
                     </div>
                 </div>
@@ -227,12 +227,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-sm-6 col-md-6 PR_79">
-                        <h4 class="sub_title">welcom to smart meipaly web agency</h4>
-                        <h2 class="sec_title MB_45">We are the Best Website agency in The World</h2>
+                        <h4 class="sub_title">welcom to smart Grayfe web agency</h4>
+                        <h2 class="sec_title MB_45">We are the Best Website agency</h2>
                         <p class="sec_desc">
                             We are committed to providing our customers with exceptional service while offering our employees the best training.
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the
-                            industry's standard dummy text ever since the 1500s.
+                            We build Web Solutions, which develop gradually with the changing needs of your business.
                         </p>
                         <a class="common_btn red_bg" href="#"><span>Learn More</span></a>
                     </div>
@@ -256,7 +255,7 @@
                         <h4 class="sub_title">how do we works</h4>
                         <h2 class="sec_title">Digital Experience</h2>
                         <p class="sec_desc">
-                            We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
+
                         </p>
                     </div>
                 </div>
@@ -293,7 +292,7 @@
                 <div class="row">
                     <div class="col-lg-12 text-center">
                         <h4 class="sub_title">our portfolio</h4>
-                        <h2 class="sec_title">work showcase</h2>
+                        <h2 class="sec_title">Highlights our works</h2>
                         <p class="sec_desc">
                             We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
                         </p>
@@ -525,6 +524,79 @@
         </section> -->
         <!-- Team Section -->
 
+        <!-- Testimonial Section -->
+        <section class="commonSection testimonial">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-10 col-lg-offset-1 col-sm-12 text-center">
+                        <div class="testimonial_content">
+                            <div class="testi_icon"><i class="mei-team"></i></div>
+                            <h2>Great things in business are never done by one person. <span>They’re done by a team of people.</span></h2>
+                            <p>
+                                Ready to work with the Top IT Talent of the market and access a world-class Software Development Team?
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Testimonial Section -->
+
+        <!-- Blog Section -->
+        <!--<section class="commonSection blog">
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-12 text-center">
+                       <h4 class="sub_title">our news & articles</h4>
+                       <h2 class="sec_title">latest blog posts</h2>
+                       <p class="sec_desc">
+                           We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
+                       </p>
+                   </div>
+               </div>
+               <div class="row">
+                   <div class="col-lg-4 col-sm-6 col-md-4">
+                       <div class="latestBlogItem">
+                           <div class="lbi_thumb">
+                               <img src="#" alt="">
+                           </div>
+                           <div class="lbi_details">
+                               <a href="#" class="lbid_date">26 NOV</a>
+                               <h2><a href="blog_single.html">basic rules of running web  agency business</a></h2>
+                               <a class="learnM" href="blog_single.html">Learn More</a>
+                           </div>
+                       </div>
+                   </div>
+                   <div class="col-lg-4 col-sm-6 col-md-4">
+                       <div class="latestBlogItem">
+                           <div class="lbi_thumb">
+                               <img src="#" alt="">
+                           </div>
+                           <div class="lbi_details">
+                               <a href="#" class="lbid_date">20 NOV</a>
+                               <h2><a href="blog_single.html">Become the best sale marketer</a></h2>
+                               <a class="learnM" href="blog_single.html">Learn More</a>
+                           </div>
+                       </div>
+                   </div>
+                   <div class="clearfix hidden-lg hidden-md hidden-xs"></div>
+                   <div class="col-lg-4 col-sm-6 col-md-4">
+                       <div class="latestBlogItem">
+                           <div class="lbi_thumb">
+                               <img src="#" alt="">
+                           </div>
+                           <div class="lbi_details">
+                               <a href="#" class="lbid_date">16 NOV</a>
+                               <h2><a href="blog_single.html">Introducing latest mopaly features</a></h2>
+                               <a class="learnM" href="blog_single.html">Learn More</a>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+           </div>
+       </section>-->
+       <!-- Blog Section -->
+
         <!-- Client Section -->
         <section class="commonSection client">
             <div class="container">
@@ -586,79 +658,6 @@
             </div>
         </section>
         <!-- Client Section -->
-
-        <!-- Testimonial Section -->
-        <section class="commonSection testimonial">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-10 col-lg-offset-1 col-sm-12 text-center">
-                        <div class="testimonial_content">
-                            <div class="testi_icon"><i class="mei-team"></i></div>
-                            <h2>Great things in business are never done by one person. <span>They’re done by a team of people.</span></h2>
-                            <p>
-                                We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Testimonial Section -->
-
-        <!-- Blog Section -->
-        <section class="commonSection blog">
-           <div class="container">
-               <div class="row">
-                   <div class="col-lg-12 text-center">
-                       <h4 class="sub_title">our news & articles</h4>
-                       <h2 class="sec_title">latest blog posts</h2>
-                       <p class="sec_desc">
-                           We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
-                       </p>
-                   </div>
-               </div>
-               <div class="row">
-                   <div class="col-lg-4 col-sm-6 col-md-4">
-                       <div class="latestBlogItem">
-                           <div class="lbi_thumb">
-                               <img src="#" alt="">
-                           </div>
-                           <div class="lbi_details">
-                               <a href="#" class="lbid_date">26 NOV</a>
-                               <h2><a href="blog_single.html">basic rules of running web  agency business</a></h2>
-                               <a class="learnM" href="blog_single.html">Learn More</a>
-                           </div>
-                       </div>
-                   </div>
-                   <div class="col-lg-4 col-sm-6 col-md-4">
-                       <div class="latestBlogItem">
-                           <div class="lbi_thumb">
-                               <img src="#" alt="">
-                           </div>
-                           <div class="lbi_details">
-                               <a href="#" class="lbid_date">20 NOV</a>
-                               <h2><a href="blog_single.html">Become the best sale marketer</a></h2>
-                               <a class="learnM" href="blog_single.html">Learn More</a>
-                           </div>
-                       </div>
-                   </div>
-                   <div class="clearfix hidden-lg hidden-md hidden-xs"></div>
-                   <div class="col-lg-4 col-sm-6 col-md-4">
-                       <div class="latestBlogItem">
-                           <div class="lbi_thumb">
-                               <img src="#" alt="">
-                           </div>
-                           <div class="lbi_details">
-                               <a href="#" class="lbid_date">16 NOV</a>
-                               <h2><a href="blog_single.html">Introducing latest mopaly features</a></h2>
-                               <a class="learnM" href="blog_single.html">Learn More</a>
-                           </div>
-                       </div>
-                   </div>
-               </div>
-           </div>
-       </section>
-       <!-- Blog Section -->
 
         <!-- Ready Section -->
         <section class="commonSection ready">

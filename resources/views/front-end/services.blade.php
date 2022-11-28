@@ -157,7 +157,7 @@
                         <h4 class="sub_title">what we do</h4>
                         <h2 class="sec_title">Let’s create something</h2>
                         <p class="sec_desc">
-                            We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
+                            Grayfe deliver real business value through software development services<br> engagement models, and next gen technologies.
                         </p>
                     </div>
                 </div>
@@ -255,7 +255,7 @@
         <!-- Trust Clients Section -->
 
         <!-- Client Section -->
-        <section class="commonSection client">
+        <!--<section class="commonSection client">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
@@ -313,6 +313,6 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section>-->
         <!-- Client Section -->
 @endsection

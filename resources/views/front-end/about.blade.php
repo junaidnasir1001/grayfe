@@ -8,7 +8,7 @@
                     <div class="col-lg-12">
                         <div class="banner_content text-center">
                             <h4><a href="#">home</a> - about</h4>
-                            <h2>about-us</h2>
+                            <h2>about us</h2>
                         </div>
                     </div>
                 </div>

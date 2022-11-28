@@ -14,11 +14,10 @@
                 <aside class="widget contact_widgets">
                     <h3 class="widget_title">contact</h3>
                     <p>
-                        66 Broklyn Street, New York<br>
-                        United States of America
+                        Shoukat town Lahore Pakistan<br>
                     </p>
-                    <p>P: 666 888 000</p>
-                    <p>E: <a href="#">needhelp@meipaly.com</a></p>
+                    <p>P: +92 3096673312</p>
+                    <p>E: <a href="#">info@grayfe.com</a></p>
                 </aside>
             </div>
             <div class="col-lg-3 col-sm-2 col-md-3">
@@ -35,7 +34,7 @@
         <div class="row">
             <div class="col-lg-12 col-sm-12 text-center">
                 <div class="copyright">
-                    © Copyright 2022 <a href="#">Grayfe.com</a> All rights reserved
+                   Copyright © 2018 - 2022 <a href="#">GrayfeⓇ</a>
                 </div>
             </div>
         </div>

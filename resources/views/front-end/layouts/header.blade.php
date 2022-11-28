@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Grayfe.com - Fine One Page Parallax HTML5 Responsive Template</title>
+    <title>Web Development Digital Marketing-GRAFYE</title>
     <meta name="viewport" content="width=device-width">
-
+    <!--<meta name="description" content="Web development services and Digital Marketing expertise. Professional UX/UI design and implementation of websites, web portals and other solutions.">-->
     <!-- Include All CSS here-->
     <link rel="stylesheet" type="text/css" href="{{ asset('front-end/css/bootstrap.css') }}"/>
     <link rel="stylesheet" type="text/css" href="{{ asset('front-end/css/owl.carousel.css') }}"/>

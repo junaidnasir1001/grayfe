@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Web Development Digital Marketing-GRAFYE</title>
+    </title>Web Development & Designing - Digital Marketing-Grayfe</title>
     <meta name="viewport" content="width=device-width">
     <meta name="viewport" content="Want to grow your <b>Business</b>? <b>Develop</b> your Website by Grayfe company we have best <b>Professional</b> Developer in Lahore Pakistan.">
     <link rel="stylesheet" type="text/css" href="{{ asset('front-end/css/bootstrap.css') }}"/>

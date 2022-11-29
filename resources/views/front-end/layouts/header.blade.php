@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <title>Web Development Digital Marketing-GRAFYE</title>
     <meta name="viewport" content="width=device-width">
-    <!--<meta name="description" content="Web development services and Digital Marketing expertise. Professional UX/UI design and implementation of websites, web portals and other solutions.">-->
-    <!-- Include All CSS here-->
+    <meta name="viewport" content="Want to grow your <b>Business</b>? <b>Develop</b> your Website by Grayfe company we have best <b>Professional</b> Developer in Lahore Pakistan.">
     <link rel="stylesheet" type="text/css" href="{{ asset('front-end/css/bootstrap.css') }}"/>
     <link rel="stylesheet" type="text/css" href="{{ asset('front-end/css/owl.carousel.css') }}"/>
     <link rel="stylesheet" type="text/css" href="{{ asset('front-end/css/owl.theme.css') }}"/>

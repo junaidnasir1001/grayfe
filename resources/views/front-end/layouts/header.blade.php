@@ -49,7 +49,7 @@
                 <nav class="mainmenu text-center">
                     <ul>
                         <li class="menu-item-has-children">
-                            <a href="{{ route('home') }}">home</a>
+                            <a href="{{ route('Web-Development-SEO') }}">home</a>
                             <!--<ul class="sub-menu">
                                 <li><a href="index.html">Home 01</a></li>
                                 <li><a href="index2.html">Home 02</a></li>

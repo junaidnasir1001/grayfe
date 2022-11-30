@@ -5,6 +5,7 @@
     <title>Web Development & Designing - Digital Marketing-Grayfe</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="Want to grow your <b>Business</b>? <b>Develop</b> your Website by Grayfe company we have best <b>Professional</b> Developer in Lahore Pakistan.">
+    <meta name="MobileOptimized" content="320" />
     <link rel="stylesheet" type="text/css" href="{{ asset('front-end/css/bootstrap.css') }}"/>
     <link rel="stylesheet" type="text/css" href="{{ asset('front-end/css/owl.carousel.css') }}"/>
     <link rel="stylesheet" type="text/css" href="{{ asset('front-end/css/owl.theme.css') }}"/>
@@ -49,7 +50,7 @@
                 <nav class="mainmenu text-center">
                     <ul>
                         <li class="menu-item-has-children">
-                            <a href="{{ route('Web-Development-SEO') }}">home</a>
+                            <a href="{{ route('home') }}">home</a>
                             <!--<ul class="sub-menu">
                                 <li><a href="index.html">Home 01</a></li>
                                 <li><a href="index2.html">Home 02</a></li>

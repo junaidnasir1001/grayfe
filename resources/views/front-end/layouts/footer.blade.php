@@ -24,9 +24,9 @@
                 <aside class="widget social_widget">
                     <h3 class="widget_title">social</h3>
                     <ul>
-                        <li><a href="#"><i class="fa fa-twitter"></i>Twitter</a></li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i>Linkedin</a></li>
                         <li><a href="#"><i class="fa fa-facebook-square"></i>Facebook</a></li>
-                        <li><a href="#"><i class="fa fa-youtube-play"></i>Youtube</a></li>
+                        <li><a href="#"><i class="fa fa-instagram"></i>Instagram</a></li>
                     </ul>
                 </aside>
             </div>
@@ -34,7 +34,7 @@
         <div class="row">
             <div class="col-lg-12 col-sm-12 text-center">
                 <div class="copyright">
-                   Copyright © 2018 - 2022 <a href="#">GrayfeⓇ</a>
+                   © 2022 <a href="#">GRAYFE.COM</a> All Rights Reserved.
                 </div>
             </div>
         </div>
@@ -55,6 +55,7 @@
 <script src="{{ asset('front-end/js/jquery.themepunch.revolution.min.js') }}"></script>
 <script src="{{ asset('front-end/js/jquery.themepunch.tools.min.js') }}"></script>
 <!-- Rev slider Add on Start -->
+<!--
 <script src="{{ asset('front-end/js/extensions/revolution.extension.actions.min.js') }}"></script>
 <script src="{{ asset('front-end/js/extensions/revolution.extension.carousel.min.js') }}"></script>
 <script src="{{ asset('front-end/js/extensions/revolution.extension.kenburn.min.js') }}"></script>
@@ -64,6 +65,7 @@
 <script src="{{ asset('front-end/js/extensions/revolution.extension.layeranimation.min.js') }}"></script>
 <script src="{{ asset('front-end/js/extensions/revolution.extension.navigation.min.js') }}"></script>
 <script src="{{ asset('front-end/js/extensions/revolution.extension.video.min.js') }}"></script>
+-->
 <!-- Rev slider Add on End -->
 <script src="{{ asset('front-end/js/dlmenu.js') }}"></script>
 <script src="{{ asset('front-end/js/jquery.magnific-popup.js') }}"></script>

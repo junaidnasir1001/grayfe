@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="Want to grow your <b>Business</b>? <b>Develop</b> your Website by Grayfe company we have best <b>Professional</b> Developer in Lahore Pakistan.">
     <meta name="MobileOptimized" content="320" />
+    <link rel="canonical" href="https://www.grayfe.com/">
     <link rel="stylesheet" type="text/css" href="{{ asset('front-end/css/bootstrap.css') }}"/>
     <link rel="stylesheet" type="text/css" href="{{ asset('front-end/css/owl.carousel.css') }}"/>
     <link rel="stylesheet" type="text/css" href="{{ asset('front-end/css/owl.theme.css') }}"/>
@@ -150,17 +151,17 @@
         <div class="row">
             <div class="col-lg-6 col-sm-6 col-xs-12 text-left">
                 <ul class="footer__contacts text-left">
-                    <li>Phone: 666 888 000</li>
-                    <li>Email: needhelp@meipaly.com</li>
-                    <li>Address: 66 Broklyn Street, New York United States of America</li>
+                    <li>Phone: +92 3096673312</li>
+                    <li>Email: info@grayfe.com</li>
+                    <li>Address: Shoukat town Lahore Pakistan</li>
                 </ul>
             </div>
             <div class="col-lg-6 col-sm-6 col-xs-12 col-xs-12">
                 <div class="popUp_social text-right">
                     <ul>
-                        <li><a href="#"><i class="fa fa-twitter"></i>Twitter</a></li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i>Linkedin</a></li>
                         <li><a href="#"><i class="fa fa-facebook-square"></i>Facebook</a></li>
-                        <li><a href="#"><i class="fa fa-youtube-play"></i>Youtube</a></li>
+                        <li><a href="#"><i class="fa fa-instagram"></i>Instagram</a></li>
                     </ul>
                 </div>
             </div>

@@ -23,7 +23,7 @@
     <!-- End Include All CSS -->
 
     <!-- Favicon Icon -->
-    <link rel="icon"  type="image/png" href="#">
+    <link rel="icon"  type="image/png" href="{{ asset('front-end/images/favicon.png') }}">
 </head>
 <body>
 <!-- Preloading -->
@@ -44,7 +44,7 @@
         <div class="row">
             <div class="col-lg-2 col-sm-3 col-md-3">
                 <div class="logo">
-                    <a href="index.html"><img src="{{ asset('front-end/images/logo.png') }}" alt=""/></a>
+                    <a href="index.html"><img src="{{ asset('front-end/images/top_logo.png') }}" alt=""/></a>
                 </div>
             </div>
             <div class="col-lg-8 col-sm-7 col-md-7">

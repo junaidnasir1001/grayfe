@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-lg-5 col-sm-6 col-md-5">
                 <aside class="widget aboutwidget">
-                    <a href="#"><img src="#" alt=""></a>
+                    <a href="#"><img src="{{ asset('front-end/images/footer_logo.png') }}" alt=""></a>
                     <p>
                         Welcome to GRAYFE. It is a hub of passionate professionals who are dynamic in their mission and operate on call to action.
                     </p>
